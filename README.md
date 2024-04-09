@@ -1,2 +1,2 @@
-# Applied-Stats-Case-Study
-In this Case Study we explore an insurance company data, to leverage customer information to paramount business using python and hypothesis testing.
+# Data Description
+The data at hand contains medical costs of people characterized by certain attributes.
