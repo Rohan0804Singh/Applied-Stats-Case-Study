@@ -24,21 +24,21 @@ Healthcare
    
 3) Perform basic EDA which should include the following and print out your insights 
 at every step.
-a) Shape of the data
-b) Data type of each attribute
-c) Checking the presence of missing values.
-d) 5 point summary of numerical attributes.
-e) Distribution of ‘bmi’, ‘age’ and ‘charges’ columns.
-f) Measure of skewness of ‘bmi’, ‘age’ and ‘charges’ columns.
-g) Checking the presence of outliers in ‘bmi’, ‘age’ and ‘charges columns.
-h) Distribution of categorical columns.
-i) Pair plot that includes all the columns of the data frame.
+1) Shape of the data
+2) Data type of each attribute
+3) Checking the presence of missing values.
+4) 5 point summary of numerical attributes.
+5) Distribution of ‘bmi’, ‘age’ and ‘charges’ columns.
+6) Measure of skewness of ‘bmi’, ‘age’ and ‘charges’ columns.
+7) Checking the presence of outliers in ‘bmi’, ‘age’ and ‘charges columns.
+8) Distribution of categorical columns.
+9) Pair plot that includes all the columns of the data frame.
 
 4) Answer the following questions with statistical evidence.
-a) Do charges of people who smoke differ significantly from the people who don't?
-b) Does bmi of males differ significantly from that of females?
-c) Is the proportion of smokers significantly different in different genders?
-d) Is the distribution of bmi across women with no children, one child and two children, the same?
+1) Do charges of people who smoke differ significantly from the people who don't?
+2) Does bmi of males differ significantly from that of females?
+3) Is the proportion of smokers significantly different in different genders?
+4) Is the distribution of bmi across women with no children, one child and two children, the same?
 
 ## References
 https://medium.com/activewizards-machine-learning-company/top-10-data-science-use-cases-in-insurance-8cade8a13ee1 (Applications of Data Science in insurance domain)
