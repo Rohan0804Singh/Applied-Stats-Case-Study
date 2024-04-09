@@ -38,3 +38,6 @@ Healthcare
 ## References
 https://medium.com/activewizards-machine-learning-company/top-10-data-science-use-cases-in-insurance-8cade8a13ee1 (Applications of Data Science in insurance domain)
 https://www.mastersindatascience.org/industry/insurance/ (Data Science in insurance)
+
+## Feedback and Support
+For any queries, feedback or suggestions please reach out to: rohan0804singh@gmail.com
