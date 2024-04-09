@@ -21,7 +21,7 @@ Healthcare
 ## Tasks
 1) Import the necessary libraries.
 2) Read the data as a data frame.
-   
+<br>
 3) Perform basic EDA which should include the following and print out your insights 
 at every step.
 1) Shape of the data
@@ -33,7 +33,7 @@ at every step.
 7) Checking the presence of outliers in ‘bmi’, ‘age’ and ‘charges columns.
 8) Distribution of categorical columns.
 9) Pair plot that includes all the columns of the data frame.
-
+<br>
 4) Answer the following questions with statistical evidence.
 1) Do charges of people who smoke differ significantly from the people who don't?
 2) Does bmi of males differ significantly from that of females?
